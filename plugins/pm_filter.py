@@ -948,7 +948,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data == "deploy":
         buttons = [[
            InlineKeyboardButton('ʀᴇᴘᴏ', url='https://t.me/malayalamholicommunity'),
-           InlineKeyboardButton('ᴏᴡɴᴇʀ', url=''https://t.me/+4QTX3KINkBdmNDM1)
+           InlineKeyboardButton('ᴏᴡɴᴇʀ', url='https://t.me/+4QTX3KINkBdmNDM1')
         ], [
             InlineKeyboardButton('ʙᴀᴄᴋ', callback_data='aswin')
         ]]
